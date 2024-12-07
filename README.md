@@ -45,6 +45,11 @@ Borrow out = A'Bin + A'B + BBin
 
 ## Procedure
 
+1.Open Quartus II and create a new project.
+2.Use schematic design entry to draw the full adder circuit and full subractor circuit.
+3.The circuit consists of XOR, AND, and OR gates.
+4.Compile the design, verify its functionality through simulation. 
+5.Implement the design on the target device and program it.
 
 
 ## Program:
