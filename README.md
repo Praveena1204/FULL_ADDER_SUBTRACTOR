@@ -1,6 +1,6 @@
 ## NAME: A.PRAVEENA
 ## REGISTER N0: 24006885
-# EXPERIMENT NO:4 Implementation of FULL_ADDER_SUBTRACTOR
+# EXPERIMENT NO:4 IMPLEMENTATION OF FULL ADDER AND SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
