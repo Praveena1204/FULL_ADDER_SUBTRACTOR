@@ -56,14 +56,15 @@ Borrow out = A'Bin + A'B + BBin
 5.Implement the design on the target device and program it.
 
 ## Program:
-![Screenshot 2024-12-06 204538](https://github.com/user-attachments/assets/fb177023-c267-4ceb-af61-7541259a5b5f)
+![Screenshot 2025-01-06 201951](https://github.com/user-attachments/assets/656550fe-641e-43ee-9df7-4f185f3d8be5)
+
 
 ## RTL Schematic
-![Screenshot 2024-12-06 204525](https://github.com/user-attachments/assets/695885b4-b480-48fa-a6bb-ca1d32fac25c)
+![Screenshot 2025-01-06 202056](https://github.com/user-attachments/assets/3c064c23-1ee7-414f-b18a-4330d8b06d41)
+
 
 ## Output Timing Waveform
-![Screenshot 2024-12-06 210343](https://github.com/user-attachments/assets/8a1a372c-161e-49ba-bd83-4df3d41da1a9)
-![Screenshot 2024-12-06 210328](https://github.com/user-attachments/assets/015fd41d-c33c-4722-838a-954228746750)
+![Screenshot 2025-01-06 201122](https://github.com/user-attachments/assets/fca35818-4c78-4347-a939-c14182900f12)
 
 
 ## Result:
